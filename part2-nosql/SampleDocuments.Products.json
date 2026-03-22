@@ -1,0 +1,33 @@
+[{
+  "_id": 1,
+  "name": "iPhone 14",
+  "category": "Electronics",
+  "price": 80000,
+  "specs": {
+    "warranty": "1 year",
+    "voltage": "220V"
+  },
+  "discount_percent": "5%"
+},
+{
+  "_id": 2,
+  "name": "T-Shirt",
+  "category": "Clothing",
+  "price": 999,
+  "specs": {
+    "size": "M",
+    "material": "Cotton",
+    "brand": "Nike"
+  }
+},
+{
+  "_id": 3,
+  "name": "Milk",
+  "category": "Groceries",
+  "price": 60,
+  "specs": {
+    "expiry_date": "2026-04-01",
+    "nutrition": "Calcium rich"
+  },
+  "expiry_date": "2024-12-12"
+}]
